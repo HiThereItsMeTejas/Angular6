@@ -1,5 +1,4 @@
-# Ng6http
-
+# Angular6 [Show json server data from backend to frontend using Angular6]
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
 ## Development server
